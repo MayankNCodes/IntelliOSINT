@@ -2,15 +2,21 @@
 [USERNAME]: microsoft
 ------------------------------------------------------------------------------------------------------------
 [FOUND SOCIALS] - 5
-       [+] FACEBOOK -- FOUND
-       [+] INSTAGRAM -- FOUND
-       [+] TUMBLR -- FOUND
-       [+] THREADS -- FOUND
-       [+] PINTEREST -- FOUND
+       [+] FACEBOOK -- FOUND
+
+       [+] INSTAGRAM -- FOUND
+
+       [+] TUMBLR -- FOUND
+
+       [+] THREADS -- FOUND
+
+       [+] PINTEREST -- FOUND
+
 
 
 ------------------------------------------------------------------------------------------------------------
 [NOT FOUND SOCIALS] - 1
-       [-] QUORA -- NONE
+       [-] QUORA -- NONE
+
 ------------------------------------------------------------------------------------------------------------
 CODED BY MayankNCodes                                                              Version- Beta
