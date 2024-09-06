@@ -1,7 +1,7 @@
 
 # IntelliOSINT
 
-An OSINT Tool completely coded in scratch with minimum dependancies to gather Intel on the web using an Username as input. This allows you to track a user using the same username on popular sites like Instagram, Facebook, Threads and more.
+An OSINT Tool completely coded fron scratch with minimum dependancies to gather Intel on the web using an Username as input. This allows you to track a user using the same username on popular sites like Instagram, Facebook, Threads and more.
 
 It features an automatic generation of each result to ensure accessibility and History of search results to the user.
 
